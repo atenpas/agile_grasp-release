@@ -1,0 +1,15 @@
+ros-indigo-agile-grasp (0.6.2-0saucy) saucy; urgency=high
+
+  * fix some dependencies
+  * Contributors: atp
+
+ -- Andreas ten Pas <atp@ccs.neu.edu>  Sat, 11 Apr 2015 04:00:00 -0000
+
+ros-indigo-agile-grasp (0.6.1-0saucy) saucy; urgency=high
+
+  * initial commit
+  * Contributors: atp
+
+ -- Andreas ten Pas <atp@ccs.neu.edu>  Fri, 10 Apr 2015 04:00:00 -0000
+
+
