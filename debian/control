@@ -1,0 +1,12 @@
+Source: ros-hydro-agile-grasp
+Section: misc
+Priority: extra
+Maintainer: Andreas ten Pas <atp@ccs.neu.edu>
+Build-Depends: debhelper (>= 9.0.0), liblapack-dev, libpcl-1.7-all-dev, ros-hydro-catkin, ros-hydro-cmake-modules, ros-hydro-cv-bridge, ros-hydro-eigen-conversions, ros-hydro-geometry-msgs, ros-hydro-message-generation, ros-hydro-pcl-conversions, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs
+Homepage: http://wiki.ros.org/agile_grasp
+Standards-Version: 3.9.2
+
+Package: ros-hydro-agile-grasp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, liblapack-dev, libpcl-1.7-all, ros-hydro-cmake-modules, ros-hydro-cv-bridge, ros-hydro-eigen-conversions, ros-hydro-geometry-msgs, ros-hydro-message-runtime, ros-hydro-pcl-conversions, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-std-msgs
+Description: The agile_grasp ROS package. AGILE stands for Antipodal Grasp Identification and LEarning. The package finds antipodal grasps in point clouds.
