@@ -1,0 +1,12 @@
+Source: ros-indigo-agile-grasp
+Section: misc
+Priority: extra
+Maintainer: Andreas ten Pas <atp@ccs.neu.edu>
+Build-Depends: debhelper (>= 9.0.0), liblapack-dev, libpcl-1.7-all-dev, ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-cv-bridge, ros-indigo-eigen-conversions, ros-indigo-geometry-msgs, ros-indigo-message-generation, ros-indigo-pcl-conversions, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Homepage: http://wiki.ros.org/agile_grasp
+Standards-Version: 3.9.2
+
+Package: ros-indigo-agile-grasp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, liblapack-dev, libpcl-1.7-all, ros-indigo-cmake-modules, ros-indigo-cv-bridge, ros-indigo-eigen-conversions, ros-indigo-geometry-msgs, ros-indigo-message-runtime, ros-indigo-pcl-conversions, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-std-msgs
+Description: The agile_grasp ROS package. AGILE stands for Antipodal Grasp Identification and LEarning. The package finds antipodal grasps in point clouds.
