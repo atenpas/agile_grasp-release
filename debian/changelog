@@ -1,0 +1,52 @@
+ros-indigo-agile-grasp (0.7.2-0trusty) trusty; urgency=high
+
+  * added author to package.xml
+  * 0.7.1
+  * update CHANGELOG.rst
+  * added dependency for visualization msgs
+  * Contributors: Andreas, atp
+  * 0.7.1
+  * update CHANGELOG.rst
+  * added dependency for visualization msgs
+  * Contributors: Andreas, atp
+
+ -- Andreas ten Pas <atp@ccs.neu.edu>  Sat, 16 May 2015 04:00:00 -0000
+
+ros-indigo-agile-grasp (0.7.1-0trusty) trusty; urgency=high
+
+  * added dependency for visualization msgs
+  * Contributors: Andreas
+
+ -- Andreas ten Pas <atp@ccs.neu.edu>  Sat, 16 May 2015 04:00:00 -0000
+
+ros-indigo-agile-grasp (0.7.0-0trusty) trusty; urgency=high
+
+  * update CMakeLists
+  * added rviz visualization
+  * fixed instructions -> (6)
+  * added instructions
+  * fixed launch files
+  * Contributors: atp
+  * added rviz visualization
+  * fixed instructions -> (6)
+  * added instructions
+  * fixed launch files
+  * Contributors: atp
+
+ -- Andreas ten Pas <atp@ccs.neu.edu>  Wed, 13 May 2015 04:00:00 -0000
+
+ros-indigo-agile-grasp (0.6.2-0trusty) trusty; urgency=high
+
+  * fix some dependencies
+  * Contributors: atp
+
+ -- Andreas ten Pas <atp@ccs.neu.edu>  Sat, 11 Apr 2015 04:00:00 -0000
+
+ros-indigo-agile-grasp (0.6.1-0trusty) trusty; urgency=high
+
+  * initial commit
+  * Contributors: atp
+
+ -- Andreas ten Pas <atp@ccs.neu.edu>  Fri, 10 Apr 2015 04:00:00 -0000
+
+
